@@ -3342,3 +3342,71 @@ org.xml.sax.SAXParseException; lineNumber: 2; columnNumber: 6; The processing in
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 09:50:53.155
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2016-07-26 10:54:18.591 -----------------------------------------------
+eclipse.buildId=3.7.3.201602250940-RELEASE-e45
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springsource.sts.ide -product org.springsource.sts.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springsource.sts.ide -data E:\MiracleRPG\mpricle_rpg\miracle_rpg\workspace -product org.springsource.sts.ide
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-07-26 10:54:24.217
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\chan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:54:34.124
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:54:34.140
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:54:34.140
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:54:59.274
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:54:59.290
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-07-26 10:55:02.445
+!MESSAGE cacheFile=file:/C:/Users/chan/Desktop/sts-bundle/sts-3.7.3.RELEASE/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-07-26 10:55:07.623
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-07-26 10:55:07.623
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin org.eclipse.cft.server.branding.core.
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2016-07-26 10:56:25.032
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2016-07-26 10:56:25.032
+!MESSAGE session context was:(profile=DefaultProfile, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2016-07-26 10:56:25.032
+!MESSAGE No repository found containing: osgi.bundle,org.sonatype.m2e.buildhelper,0.15.0.201212120353
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2016-07-26 10:56:25.032
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.sonatype.m2e.buildhelper.feature,0.15.0.201212120353
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2016-07-26 10:56:25.047
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2016-07-26 10:56:25.047
+!MESSAGE session context was:(profile=DefaultProfile, phase=org.eclipse.equinox.internal.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2016-07-26 10:56:25.047
+!MESSAGE No repository found containing: osgi.bundle,org.sonatype.m2e.buildhelper,0.15.0.201212120353
+!SUBENTRY 1 org.eclipse.equinox.p2.artifact.repository 4 0 2016-07-26 10:56:25.047
+!MESSAGE No repository found containing: org.eclipse.update.feature,org.sonatype.m2e.buildhelper.feature,0.15.0.201212120353
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:57:55.956
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:57:55.985
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:58:01.311
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-07-26 10:58:01.327
+!MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
