@@ -26,6 +26,7 @@ public class HardcoreController {
 	public ModelAndView mainPage() throws Exception{
 		ModelAndView mv = new ModelAndView("/hardcore");
 		
+		//로그인 정보로 회원의 정보 가져오기
 		NowVo nowVo = new NowVo();
 		nowVo.setId("admin");
 		
