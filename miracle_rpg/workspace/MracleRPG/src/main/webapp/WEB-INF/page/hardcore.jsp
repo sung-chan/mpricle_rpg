@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	하드코어모드
+	<h1>하드코어 모드</h1>
 </body>
 </html>

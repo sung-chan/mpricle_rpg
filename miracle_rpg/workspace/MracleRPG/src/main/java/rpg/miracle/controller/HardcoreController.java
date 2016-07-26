@@ -12,6 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import rpg.miracle.service.memberService;
 import rpg.miracle.vo.MemberVo;
+import rpg.miracle.vo.NowVo;
 
 //컨트롤러
 @Controller
@@ -23,7 +24,11 @@ public class HardcoreController {
 	
 	@RequestMapping(value="/hard.do")
 	public ModelAndView mainPage() throws Exception{
-		ModelAndView mv = new ModelAndView("/hardcore");		
+		ModelAndView mv = new ModelAndView("/hardcore");
+		
+		NowVo nowVo = new NowVo();
+		nowVo.setId("admin");
+		
 		return mv;
 	}
 }
