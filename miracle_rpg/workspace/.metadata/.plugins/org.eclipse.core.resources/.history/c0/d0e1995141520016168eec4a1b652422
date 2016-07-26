@@ -1,0 +1,16 @@
+package rpg.miracle.impl;
+
+import javax.annotation.Resource;
+
+import org.springframework.stereotype.Service;
+
+import rpg.miracle.dao.memberDao;
+
+@Service("memberService")
+public class memberImpl {
+	
+		@Resource(name="memberDao")
+		private memberDao memberDao;
+		
+		
+}

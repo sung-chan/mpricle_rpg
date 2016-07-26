@@ -1,0 +1,5 @@
+package rpg.common.logger;
+
+public class LoggerInterceptor {
+
+}

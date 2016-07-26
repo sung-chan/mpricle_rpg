@@ -1,0 +1,7 @@
+package rpg.miracle.vo;
+
+public class MemberVo {
+	public String id;
+	public String pw;
+	public String nick;
+}

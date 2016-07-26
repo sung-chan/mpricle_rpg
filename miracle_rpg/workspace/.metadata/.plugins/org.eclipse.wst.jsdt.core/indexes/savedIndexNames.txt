@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+E:\miracle_rpg\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2476574921.index
+3114041488.index
+3042841521.index
+1247648990.index
+1336584300.index
+1993257232.index

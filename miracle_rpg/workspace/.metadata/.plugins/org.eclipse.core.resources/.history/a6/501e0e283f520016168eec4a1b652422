@@ -1,0 +1,13 @@
+package rpg.miracle.controller;
+
+import javax.annotation.Resource;
+
+import org.apache.log4j.Logger;
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class memberController {
+	Logger log = Logger.getLogger(this.getClass());
+	
+	@Resource(name="memberService")
+}

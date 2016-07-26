@@ -1,0 +1,12 @@
+package rpg.miracle.impl;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import rpg.miracle.vo.MemberVo;
+
+@Service("memberService")
+public class memberImpl {
+	List<MemberVo> select(MemberVo memberVo) throws Exception;	
+}

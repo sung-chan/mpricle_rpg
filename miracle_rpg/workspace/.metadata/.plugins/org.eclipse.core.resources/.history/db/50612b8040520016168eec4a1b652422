@@ -1,0 +1,12 @@
+package rpg.miracle.dao;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import rpg.common.dao.abstractDAO;
+
+@Repository("memberDao")
+public class memberDao extends abstractDAO {
+	List<String> list = 
+}

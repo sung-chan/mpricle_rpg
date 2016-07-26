@@ -1,0 +1,8 @@
+package rpg.miracle.impl;
+
+import org.springframework.stereotype.Service;
+
+@Service("memberService")
+public class memberImpl {
+	
+}

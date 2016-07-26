@@ -1,0 +1,7 @@
+package com.miracle.rpg;
+
+public class Snippet {
+	<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
+	<jsp:forward page="/sample/openSampleList.do"/>
+}
+

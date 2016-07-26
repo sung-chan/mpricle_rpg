@@ -1,0 +1,9 @@
+package rpg.miracle.service;
+
+import java.util.List;
+
+import rpg.miracle.vo.MemberVo;
+
+public interface memberService {
+	List<MemberVo> select() throws Exception;
+}
