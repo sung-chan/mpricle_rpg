@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="/rpg/normal.do">노말모드</a><br/>
-	<a href="/rpg/hard.do">하드코어모드</a>
+	하드코어모드
 </body>
 </html>

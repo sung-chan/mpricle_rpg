@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	sub
+	노말모드
 </body>
 </html>
